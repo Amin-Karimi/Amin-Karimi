@@ -10,6 +10,10 @@ As a **front-end expert**, I focus on:
 
 ## Featured Projects
 - [**Angular Sample Project**](https://github.com/Amin-Karimi/angular-sample-small-project) - A comprehensive sample app showcasing **Angular best practices**.
+- [**Angular Tooltip**](https://github.com/Amin-Karimi/ng2-tooltip-directive) - Angular tooltip directive, Install directive:
+   ```bash
+   npm i @amin-karimi/ng2-tooltip-directive
+   ```
 - Other open-source contributions focused on **JavaScript** frameworks and libraries, **Angular components**, and more.
 
 Explore all my projects in the **Repositories** section to see my work in **front-end development**, **back-end services**, and **full-stack web applications**.
